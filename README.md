@@ -1,2 +1,2 @@
 # Multiple-Rename
-A python module which easily lets us reaname multiple files with additional features
+A python module which easily lets us Rename multiple files with additional features
